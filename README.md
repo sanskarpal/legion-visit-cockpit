@@ -2,7 +2,7 @@
 
 The screen a psychiatric nurse practitioner works from during a live visit: what changed since last time, which meds need attention, and an unambiguous pharmacy, all readable in a few seconds. An unofficial prototype for Legion Health, built by Sanskar Pal while applying for the Product Engineer, Care Loop role.
 
-**Live demo:** _coming soon_ · **Stack:** React 19, TypeScript, Tailwind v4, Vitest
+**Live demo:** [legion-visit-cockpit.vercel.app](https://legion-visit-cockpit.vercel.app) · **Stack:** React 19, TypeScript, Tailwind v4, Vitest
 
 ![Visit Cockpit screenshot](docs/screenshot.png)
 
